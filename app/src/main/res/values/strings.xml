@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="add_note">+</string>
+    <string name="save_note">Spara</string>
+    <string name="new_note">Ny anteckning</string>
+
+    <!-- <string name="new_note">New note</string> -->
+
+     <string name="notes">Notepad</string>
+ </resources>
